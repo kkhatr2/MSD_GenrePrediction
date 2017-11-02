@@ -1,4 +1,4 @@
-# Milliion Song Dataset Analysis
+# Million Song Dataset Analysis
 
 Project contains analysis using R in a jupyter notebook
 
